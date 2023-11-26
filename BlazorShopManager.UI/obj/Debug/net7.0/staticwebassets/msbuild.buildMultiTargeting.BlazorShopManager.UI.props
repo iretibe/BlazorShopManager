@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlazorShopManager.UI.props" />
+</Project>

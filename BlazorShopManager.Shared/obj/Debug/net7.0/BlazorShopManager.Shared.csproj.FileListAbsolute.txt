@@ -1,0 +1,12 @@
+C:\PROJECTS\BlazorShopManager\BlazorShopManager.Shared\bin\Debug\net7.0\BlazorShopManager.Shared.deps.json
+C:\PROJECTS\BlazorShopManager\BlazorShopManager.Shared\bin\Debug\net7.0\BlazorShopManager.Shared.dll
+C:\PROJECTS\BlazorShopManager\BlazorShopManager.Shared\bin\Debug\net7.0\BlazorShopManager.Shared.pdb
+C:\PROJECTS\BlazorShopManager\BlazorShopManager.Shared\obj\Debug\net7.0\BlazorShopManager.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTS\BlazorShopManager\BlazorShopManager.Shared\obj\Debug\net7.0\BlazorShopManager.Shared.AssemblyInfoInputs.cache
+C:\PROJECTS\BlazorShopManager\BlazorShopManager.Shared\obj\Debug\net7.0\BlazorShopManager.Shared.AssemblyInfo.cs
+C:\PROJECTS\BlazorShopManager\BlazorShopManager.Shared\obj\Debug\net7.0\BlazorShopManager.Shared.csproj.CoreCompileInputs.cache
+C:\PROJECTS\BlazorShopManager\BlazorShopManager.Shared\obj\Debug\net7.0\BlazorShopManager.Shared.dll
+C:\PROJECTS\BlazorShopManager\BlazorShopManager.Shared\obj\Debug\net7.0\refint\BlazorShopManager.Shared.dll
+C:\PROJECTS\BlazorShopManager\BlazorShopManager.Shared\obj\Debug\net7.0\BlazorShopManager.Shared.pdb
+C:\PROJECTS\BlazorShopManager\BlazorShopManager.Shared\obj\Debug\net7.0\ref\BlazorShopManager.Shared.dll
+C:\PROJECTS\BlazorShopManager\BlazorShopManager.Shared\obj\Debug\net7.0\BlazorShopManager.Shared.csproj.AssemblyReference.cache
